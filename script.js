@@ -1,18 +1,3 @@
-/**
-* # Завдання
- * Написати віджет погоди, використовуючи [Open Weather API](https://openweathermap.org/current)
- * [Open Weather widgets](https://openweathermap.org/widgets-constructor)
- *
- * ## Технічні вимоги
- * Робити запит погоди по вказаному місту та відображати інформацію в віджет на сторінці
- * Для відображення стану погоди використовувати бібліотеку іконок
- * {https://openweathermap.org/weather-conditions} http://openweathermap.org/img/wn/10d@2x.png
- * (https://erikflowers.github.io/weather-icons/)
- * Якщо приходить помилка, то відображати її текст в модальному вікні
- *
- * Parms fetch
- * units=metric - значення температури у C
-* */
 
 
 const API_TOKEN = '00555d7aa30c0bf2ab4a4e855b5b9a2b';
